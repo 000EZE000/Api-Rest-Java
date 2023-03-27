@@ -8,11 +8,11 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.apiRest</groupId>
-	<artifactId>apiRest</artifactId>
+	<groupId>com.apirest</groupId>
+	<artifactId>apirest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>apiRest</name>
+	<name>apirest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>

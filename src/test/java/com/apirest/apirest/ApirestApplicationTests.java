@@ -1,10 +1,10 @@
-package com.apiRest.apiRest;
+package com.apirest.apirest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiRestApplicationTests {
+class ApirestApplicationTests {
 
 	@Test
 	void contextLoads() {
