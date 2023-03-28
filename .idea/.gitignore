@@ -1,3 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+.idea
+test
+
+### Sensitive Data ###
+application.pro*
+
+target
+*.xml
